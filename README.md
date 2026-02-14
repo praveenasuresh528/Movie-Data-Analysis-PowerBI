@@ -61,12 +61,12 @@ The objective of this project is to analyze movie metadata and identify trends i
 
   💡 Skills Demonstrated
 
-    Data Cleaning & Preparation
-    Data Transformation
-    Data Modeling
-    Data Visualization
-    Dashboard Design
-    Analytical Thinking
+   -Data Cleaning & Preparation
+   -Data Transformation
+   -Data Modeling
+   -Data Visualization
+   -Dashboard Design
+   -Analytical Thinking
 
 
 ---
