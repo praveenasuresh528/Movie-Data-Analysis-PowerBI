@@ -59,6 +59,16 @@ The objective of this project is to analyze movie metadata and identify trends i
 - Power BI Dashboard (.pbix)
 - Project Documentation (.docx)
 
+  💡 Skills Demonstrated
+
+    Data Cleaning & Preparation
+    Data Transformation
+    Data Modeling
+    Data Visualization
+    Dashboard Design
+    Analytical Thinking
+
+
 ---
 
 ### 👩‍💻 Author
