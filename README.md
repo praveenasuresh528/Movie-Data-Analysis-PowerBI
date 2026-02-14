@@ -59,17 +59,33 @@ The objective of this project is to analyze movie metadata and identify trends i
 - Power BI Dashboard (.pbix)
 - Project Documentation (.docx)
 
-  💡 Skills Demonstrated
+## 💡 Skills Demonstrated
 
-   -Data Cleaning & Preparation
-   -Data Transformation
-   -Data Modeling
-   -Data Visualization
-   -Dashboard Design
-   -Analytical Thinking
+### 🔹 Technical Skills
+- Data Cleaning & Preprocessing (Microsoft Excel)
+- Data Transformation & Formatting
+- Data Modeling in Power BI
+- Creating Calculated Columns (Profit Status)
+- Writing DAX Measures (Aggregations & KPIs)
+- KPI Development
+- Interactive Dashboard Design
+- GitHub Project Documentation
 
+### 🔹 Analytical Skills
+- Profitability Analysis (Hit vs Flop Classification)
+- Trend Analysis (Gross & Profit by Year)
+- Budget vs Revenue Performance Analysis
+- Genre & Language Distribution Analysis
+- Business Insight Extraction
 
----
+### 🔹 Visualization Skills
+- KPI Cards
+- Bar & Column Charts
+- Line Charts
+- Scatter Plot Analysis
+- Donut/Pie Charts
+- Slicer-Based Interactive Filtering
+
 
 ### 👩‍💻 Author
 Praveena Suresh
